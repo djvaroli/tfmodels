@@ -147,3 +147,7 @@ cython_debug/
 # PyCharm files
 .idea/
 .DS_store
+
+# Notebooks and other misc
+*.ipynb
+*.png
